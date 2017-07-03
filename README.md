@@ -1,3 +1,3 @@
 # Tensorflow
 
-Some implements of machine learning / deep learning using Tensorflow
+Some implements of machine learning / deep learning models using Tensorflow
